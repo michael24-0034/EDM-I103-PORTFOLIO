@@ -11,5 +11,5 @@ CURRENTLY LIVES AT ANGELES CITY PAMPANGA.ELECTED AS COUNCIL SCOUT REPRESENTATIVE
 ## COURSE- BACHELOR OF SCIENCE INFORMATION SYSTEM
 ## SECTION- I103
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/images/one.JPG)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/PNG2.png)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterms%20Task%201/images/one.jpeg)
+- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/OK.png)
