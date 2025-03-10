@@ -20,4 +20,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![screenshot](images/one.jpeg)
 
 # STEP 4 Here's the screenshot of my output after I started data cleaning
-![screenshot](images/Two.png)
+![screenshot](../images/Two.png)
