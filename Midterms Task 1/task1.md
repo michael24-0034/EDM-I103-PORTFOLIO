@@ -17,7 +17,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Mapped the Normalized tables as a Physical Data Model
 
 # STEP 3 Here's the screenshot of my output before I started data cleaning
-![screenshot](images/one.JPG)
+![screenshot](/images/one.jpeg)
 
 # STEP 4 Here's the screenshot of my output after I started data cleaning
 <img src="images/PN.png" alt="Alt Text" width="1000" height="1000">
