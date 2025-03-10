@@ -20,4 +20,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![screenshot](images/one.jpeg)
 
 # STEP 4 Here's the screenshot of my output after I started data cleaning
-<img src="Midterms%20Task%201/images/images/Two.png" alt="Alt Text" width="1000" height="1000">
+![screenshot](images/Two.png)
