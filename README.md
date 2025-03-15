@@ -20,7 +20,7 @@ I am currently a first-year student at City College of Angeles, pursuing a Bache
 - ####  Leadership and Teamwork 
 - ####  Problem Solving 
 - ####  Public Speaking 
-
+<img src="File/gif/1323-java-code-language.gif" height="100"/>
 
 ## Course Details
 #### Course Name: Bachelor of Science in Information Systems
