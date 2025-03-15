@@ -26,5 +26,6 @@ I am currently a first-year student at City College of Angeles, pursuing a Bache
 #### Course Name: Bachelor of Science in Information Systems
 #### Section: I103
 ### My Projects
-#### - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterms%20Task%201/images/one.jpeg)
-#### - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/OK.png)
+- ####  Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterms%20Task%201/images/one.jpeg)
+- ####  Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/OK.png)
+- ####  Midterm Lab Task 3 [Data Cleaning and Preparation using Excel]
