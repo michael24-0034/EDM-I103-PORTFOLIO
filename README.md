@@ -21,6 +21,7 @@ I am currently a first-year student at City College of Angeles, pursuing a Bache
 - ####  Problem Solving 
 - ####  Public Speaking 
 
+
 ## Course Details
 #### Course Name: Bachelor of Science in Information Systems
 #### Section: I103
