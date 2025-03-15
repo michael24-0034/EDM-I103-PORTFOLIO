@@ -12,7 +12,7 @@ I am currently a first-year student at City College of Angeles, pursuing a Bache
 #### - Senior High School: Northville 15 Integrated School (ABM Track)
 
 ## Skills
-#### - Data Analysis 
+- ####  Data Analysis 
 #### - Data Cleaning 
 #### - Microsoft Excel 
 #### - Information Systems 
