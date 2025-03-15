@@ -1,15 +1,20 @@
-# EDM-I103-PORTFOLIO-MIDTERMS (JOHN MICHAEL LUMANOG)
-THIS REPOSITORY CONTATINS ALL THE TASKS IN EDM MIDTERMS
-# ABOUT ME
-CURRENTLY STUDYING AT CITY COLLEGE OF ANGELES. 1ST YEAR COLLEGE TAKING THE COURSE OF BACHELOR OF SCIENC INFORMATION SYSTEM.
-CURRENTLY LIVES AT ANGELES CITY PAMPANGA.ELECTED AS COUNCIL SCOUT REPRESENTATIVE 1 OF BSP ANGELES CITY COUNCIL UNDER CENTRAL LUZON REGION 2024-2025 .FORUMER USING PARLIAMENTARY PROCEDURE.EAGLE SCOUT AWARDEE AND EAGLE SCOUT ALUMNI UNDER BSP ANGELES CITY COUNCIL.
-## EDUCATION
-- ELEMENTARY NORTHVILLE 15 INTEGRATED SCHOOL
-- JUNIOR HIGH SCHOOL-NORTHVILLE 15 INTEGRATED SCHOOL
-- SENIOR HIGH SCHOOL- NORTHVILLE 15 INTEGRATED SCHOOL (ABM)
+# EDM-I103 Portfolio - Midterms
+#### By John Michael Lumanog
 
-## COURSE- BACHELOR OF SCIENCE INFORMATION SYSTEM
-## SECTION- I103
+This repository contains all the tasks I have completed for the EDM Midterms course.
+
+## About Me
+I am currently a first-year student at City College of Angeles, pursuing a Bachelor of Science in Information Systems. I reside in Angeles City, Pampanga, and I have been honored to serve as the Council Scout Representative 1 of the BSP Angeles City Council under the Central Luzon Region for the 2024-2025 term. I am also a former user of Parliamentary Procedure and a proud Eagle Scout Awardee and Eagle Scout Alumni under the BSP Angeles City Council.
+
+## Education
+#### - Elementary: Northville 15 Integrated School
+#### - Junior High School: Northville 15 Integrated School
+#### - Senior High School: Northville 15 Integrated School (ABM Track)
+
+
+## Course Details
+#### Course Name: Bachelor of Science in Information Systems
+#### Section: I103
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterms%20Task%201/images/one.jpeg)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/OK.png)
+####- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterms%20Task%201/images/one.jpeg)
+#### - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/OK.png)
