@@ -30,6 +30,6 @@ I am currently a first-year student at City College of Angeles, pursuing a Bache
 - ####  Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/OK.png)
 - ####  Midterm Lab Task 3:[Data Cleaning and Preparation using Excel](Midterm%20Task%203/Chart-Report.xlsx)
 - ####  Final Task 1:[Event Management DB](Final%20task%201/sql.sql) [(ER Diagram)](Final%20task%201/ER%20DIAGRAM.jpg) [(Steps)](Final%20task%201)
-- #### Final Task 2:
+- #### Final Task 2:https://github.com/michael24-0034/EDM-I103-PORTFOLIO/tree/main/final%20task2
 
 
