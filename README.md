@@ -1,7 +1,7 @@
-# EDM-I103 Portfolio - Midterms
+# EDM-I103 Portfolio - Midterms and Finals
 #### By John Michael Lumanog
 
-This repository contains all the tasks I have completed for the EDM Midterms course.
+This repository contains all the tasks I have completed for the EDM Midterms and Finals course.
 
 ## About Me
 I am currently a first-year student at City College of Angeles, pursuing a Bachelor of Science in Information Systems. I reside in Angeles City, Pampanga, and I have been honored to serve as the Council Scout Representative 1 of the BSP Angeles City Council under the Central Luzon Region for the 2024-2025 term. I am also a former user of Parliamentary Procedure and a proud Eagle Scout Awardee and Eagle Scout Alumni under the BSP Angeles City Council.
