@@ -32,5 +32,5 @@ I am currently a first-year student at City College of Angeles, pursuing a Bache
 - ####  Final Task 1:[Event Management DB](Final%20task%201/sql.sql) [(ER Diagram)](Final%20task%201/ER%20DIAGRAM.jpg) [(Steps)](Final%20task%201)
 - #### Final Task 2:[ER TO RELTIONAL](https://github.com/michael24-0034/EDM-I103-PORTFOLIO/tree/main/final%20task2)
 - #### Final Task 3:[Table Manipulation](https://github.com/michael24-0034/EDM-I103-PORTFOLIO/tree/main/FINALS%20TASK%203)
-- #### Final Task 4:[Using Select Statement]
+- #### Final Task 4:[Using Select Statement](https://github.com/michael24-0034/EDM-I103-PORTFOLIO/tree/main/Finals%20Task%204)
 
